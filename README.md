@@ -6,7 +6,7 @@
 
 🎨 My university studies also equipped me with a solid understanding of design principles and UI/UX best practices.
 
-🔍 Proficient in basic & advanced data structures and algorithms, I'm continuously refining my technical expertise.
+🔍 Proficient in data structures and algorithms, I'm continuously refining my technical expertise.
 
 🚀 Excited to collaborate and grow with the tech community here on GitHub!
 
