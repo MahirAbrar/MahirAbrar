@@ -11,7 +11,6 @@
 🚀 Excited to collaborate and grow with the tech community here on GitHub!
 
 📫 How to reach me: 
-- Insta: Abrawnyy
 - LinkedIn: Hamid Abrar Mahir
 - Personal Website: [mahirabrar.net](https://www.mahirabrar.net/)
 
